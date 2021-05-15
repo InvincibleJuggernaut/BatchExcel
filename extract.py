@@ -38,7 +38,7 @@ for x in files:
         print(x+" - Success")
     except:
         count_failure+=1
-        print(x+ "- Failed")
+        print(x+ " - Failed")
 
 print("Total files successfully scanned : "+str(count_success))
 print("Total files that were not scanned: "+str(count_failure))
