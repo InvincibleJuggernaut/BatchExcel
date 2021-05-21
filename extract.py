@@ -4,7 +4,7 @@ from xlrd import open_workbook
 from xlutils.copy import copy
 import xlwt
 
-folder = '/<Folder location>'
+folder = '<Folder location>'
 files = os.listdir(folder)
 
 complete_list = []
