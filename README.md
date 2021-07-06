@@ -12,6 +12,13 @@
   ```
   git clone https://github.com/InvincibleJuggernaut/BatchExcel.git
   ```
+  
+  <li>Install all the dependencies using</li>
+  
+  ```
+  pip3 install -r requirements.txt
+  ```
+  
   <li>Run the script using</li>
   
   ```
