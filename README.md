@@ -19,6 +19,9 @@
   pip3 install -r requirements.txt
   ```
   
+  <li>Open <i>extract.py</i> and enter the folder location containing the Excel files in this <a href="https://github.com/InvincibleJuggernaut/BatchExcel/blob/9da1d79f059fbe77e56aaac6257d2c403762362a/extract.py#L7">line</a>.</li>
+  <li>Make additional tweaks to the code depending on which specific cells you want to extract.</li>
+    
   <li>Run the script using</li>
   
   ```
