@@ -28,3 +28,7 @@
   python3 extract.py
   ```
 </ul>
+
+<h2>License</h2>
+
+<a href="LICENSE">MIT License</a>
