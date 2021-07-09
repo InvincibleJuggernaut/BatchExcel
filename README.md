@@ -1,5 +1,14 @@
 # BatchExcel
 
+<p>
+  <a href="https://www.python.org">
+    <img src="https://img.shields.io/badge/MADE%20WITH%20-Python-blueviolet" height="20">
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg" height="20">
+  </a>
+</p>
+
 <h2>Introduction</h2>
 
 <p> BatchExcel is a utility script written in Python capable of processing huge batches of Excel files, extract some specific data from certain rows/columns and tabulate it in a single Excel file.</p>
